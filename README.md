@@ -1,4 +1,4 @@
-# Study Timer - React Native Expo App
+# Study Timer 
 
 A minimal, production-ready study session tracker with dark mode interface, daily totals, and weekly comparison charts.
 
