@@ -4,17 +4,14 @@
   },
   "build": {
     "production": {
-      "node": "18.13.0",
-      "npm": "9.2.0"
+      "node": "18.13.0"
     },
     "preview": {
-      "node": "18.13.0",
-      "npm": "9.2.0"
+      "node": "18.13.0"
     },
     "development": {
       "developmentClient": true,
-      "node": "18.13.0",
-      "npm": "9.2.0"
+      "node": "18.13.0"
     }
   },
   "submit": {
